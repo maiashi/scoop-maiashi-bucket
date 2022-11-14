@@ -11,7 +11,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://get.enterprisedb.com/postgresql/postgresql-14.6-1-windows-x64-binaries.zip#/dl.zip_",
+            "url": "https://get.enterprisedb.com/postgresql/postgresql-14.6-1-windows-x64-binaries.zip",
             "hash": "fb2cb01b07a952f578c57fbe20112e8f1e3722117c68b3bb2c3290a276005f94"
         }
     },
@@ -45,7 +45,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://get.enterprisedb.com/postgresql/postgresql-$version-1-windows-x64-binaries.zip#/dl.zip_"
+                "url": "https://get.enterprisedb.com/postgresql/postgresql-$version-1-windows-x64-binaries.zip"
             }
         }
     }
